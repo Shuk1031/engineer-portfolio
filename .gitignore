@@ -1,0 +1,15 @@
+# Node.js 関連
+node_modules/
+.next/
+out/
+
+# Python 関連
+venv/
+__pycache__/
+*.pyc
+
+# 環境変数
+.env
+
+# ログファイル
+*.log
